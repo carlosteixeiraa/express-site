@@ -1,0 +1,20 @@
+{
+  "name": "express-site",
+  "version": "1.0.0",
+  "description": "Sample site com express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "sample",
+    "site"
+  ],
+  "author": "Carlos Teixeira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
